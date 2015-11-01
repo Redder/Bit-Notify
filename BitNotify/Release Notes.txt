@@ -1,0 +1,15 @@
+﻿https://github.com/Redder/Bit-Notify.git
+
+v1.0.0.0 --------
+Initial Release:
+
+Comments: 
+Just created a speed code and uploaded to youtube, Don't plan on making this better
+feel free to edit!
+
+Improvements:
+- Need to add more cases and Default case to BTC class
+- Improve GUI 
+- Minimize application to Taskbar
+- Display value each timer tick (show form, display value, then minimize, or something like that)
+- Anything else?
